@@ -7,7 +7,7 @@
 - 개발 환경: Python, Pytorch, Scikit learn, Google Colab (T4/CUDA)
 
 ## 📖 관련 게시글
-1. [규칙과 데이터 셋 살피기](https://taeddy-note.tistory.com/5)
+1. [대회 규칙과 데이터 셋 살피기](https://taeddy-note.tistory.com/5)
 
 ## 📁 디렉토리
 모든 노트북 파일(.ipynb)는 각 모델을 정의, 훈련, 검증, 평가, 제출물 제작 과정을 담음.
