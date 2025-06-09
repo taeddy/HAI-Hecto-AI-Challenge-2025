@@ -1,8 +1,9 @@
 # HAI-Hecto-AI-Challenge-2025
-[HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회](https://dacon.io/competitions/official/236493/overview/description)
+- 대회 사이트: [HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회](https://dacon.io/competitions/official/236493/overview/description)
 <br><br>
 ## 🗒️ 프로젝트 소개
-- DACON과 Hecto가 협력하여 주최하는 대회: 396종의 차량 사진 분류
+- DACON과 Hecto가 협력하여 주최하는 대회
+- 396종의 차량 사진 분류
 - 개발 기간: 2025년 5월 ~ 6월
 - 개발 환경: Python, Pytorch, Scikit learn, Google Colab (T4/CUDA)
 
